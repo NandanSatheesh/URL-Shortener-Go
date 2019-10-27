@@ -13,7 +13,7 @@ The app will run on `localhost:8080`
 Request - Make sure to include http:// or https://
 ``` 
 {
-	"url":"https://www.google.com"
+    "url":"https://www.google.com"
 }
 ```
 Response -  
