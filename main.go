@@ -59,8 +59,8 @@ func httpPort() string {
 
 func getRedisRepository() shortener.RedirectRepository {
 
-	redisURL := "redis-13858.c8.us-east-1-4.ec2.cloud.redislabs.com:13858"
-	redisPassword := "0OhEKCh7XLllhES2aO1jU79EEvdRNWRf"
+	redisURL := "redis-*****.c8.us-east-1-4.*******.cloud.redislabs.com:1*****"
+	redisPassword := "***********hES2aO1jU79EEvdRNWRf"
 	repo, err := rr.NewRedisRepository(redisURL, redisPassword)
 	if err != nil {
 		log.Fatal(err)
