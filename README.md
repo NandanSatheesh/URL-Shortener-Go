@@ -1,8 +1,9 @@
-# URL-Shortener-Go
-URL shortener in Go using Redis and go-chi.    
+# URL-Shortener-Go   
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)   
+URL shortener in Go using Redis and go-chi.    
+
 
 ## Redis 
 Try Redis Enterprise free in the cloud [here](https://redislabs.com/). Get upto 30 MB of free storage on their enterprise cloud. :sunglasses:   
