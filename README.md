@@ -31,7 +31,7 @@ Response -
 ``` GET - /{string} ``` - Will take you the webiste for which the URL is already shortened.   
 
 ## Other Notes 
-The keys in this project are shown for reference only and are disposed with care :tada:   
+The username and passwords for the Redis Cluster used in this project are shown for reference only and are disposed with care :tada:   
 There were a lot of projects running on my GoLand IDE. You may have to reconfigure few of the packages on your own. :confused:
 
 ## Contribute 
